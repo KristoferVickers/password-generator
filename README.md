@@ -31,3 +31,4 @@ Repository link:
 https://github.com/KristoferVickers/password-generator
 
 Web Link:
+https://kristofervickers.github.io/password-generator/
