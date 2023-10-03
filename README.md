@@ -28,5 +28,6 @@ WHEN the password is generated
 THEN the password is written to the page.
 
 Repository link:
+https://github.com/KristoferVickers/password-generator
 
 Web Link:
